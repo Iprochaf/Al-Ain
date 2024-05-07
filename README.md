@@ -1,4 +1,3 @@
 # Ai atividadezinha
-### Dia bonzinho
-```print('Ain dia bom')´´´
+```Ain dia bonzinho´´´
 
